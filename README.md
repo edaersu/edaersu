@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**edaersu/edaersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://in.linkedin.com/in/edanurersu">
+   <img align="right" alt="Linkedin" width="15px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:edaersu1@gmail.com">
+    <img align="right" alt="Gmail" width="15px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://twitter.com/edaersu">
+    <img align="right" alt="Twitter" width="15px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+  <a href="https://github.com/edaersu">
+    <img align="right" alt="Github" width="15px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
+  </a>
+<br>
+<br>
+
